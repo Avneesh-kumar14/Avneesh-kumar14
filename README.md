@@ -1,7 +1,7 @@
 <!-- Profile README for Avneesh Kumar -->
 
 <h1 align="center">👋 Hey, I'm Avneesh Kumar</h1>
-<h3 align="center">💻 MERN Stack Developer | DSA with Java | Freelancer</h3>
+<h3 align="center">💻 MERN Stack Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=avneesh-kumar14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
