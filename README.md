@@ -13,7 +13,7 @@
 - 💡 **Full Stack Developer (MERN)** with a passion for building scalable, efficient, and user-friendly applications.  
 - 💼 Freelanced on multiple real-world projects — from backend design to full deployment.  
 - 💻 Strong grasp of **Data Structures & Algorithms (Java)** and a solid understanding of system design.  
-- ⚙️ Experienced in developing **Express + EJS** based projects — my *Airbnb clone* runs entirely on a single Express server.  
+- ⚙️ Experienced in developing **Express + EJS** .
 - 🌱 Constantly exploring new technologies and improving my development workflow.  
 
 ---
