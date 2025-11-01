@@ -1,6 +1,6 @@
 <!-- Profile README for Avneesh Kumar -->
 
-<h1 align="center">👋 Hey, I'm Avneesh Kumar</h1>
+<h1 align="center"> Avneesh Kumar</h1>
 <h3 align="center">💻 MERN Stack Developer </h3>
 
 <p align="center">
@@ -50,28 +50,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
 
-### 🧠 Projects & Highlights  
-
-#### 🚗 **Car Vault Portal (MERN Stack)**
-> Full-stack vehicle listing & management portal with authentication, payments, and admin dashboard.  
-> 🔗 [Live Demo](#) | 💻 [Repository](#)
-
-#### 🤖 **Lyra AI Assistant**
-> Python + Node.js based AI assistant with GUI, screen capture, and multi-task automation.  
-> 🔗 [Live Demo](#) | 💻 [Repository](#)
-
-#### 🏠 **Airbnb Clone (Express + EJS)**
-> Dynamic rental platform fully built using Express.js, MongoDB, and EJS templating.  
-> Includes CRUD, authentication, and responsive UI — all running on a single server.  
-> 🔗 [Live Demo](#) | 💻 [Repository](#)
-
-#### 🧑‍💼 **Workforce Network for Service Provider**
-> MERN-based platform connecting users and service providers with secure admin control.  
-> 🔗 [Live Demo](#) | 💻 [Repository](#)
-
----
 
 ### 📊 GitHub Stats  
 
