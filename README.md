@@ -3,12 +3,6 @@
 <h1 align="center"> Avneesh Kumar</h1>
 <h3 align="center">💻 MERN Stack Developer </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avneesh-kumar14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
 ### 🚀 About Me  
 - 💡 **Full Stack Developer (MERN)** with a passion for building scalable, efficient, and user-friendly applications.  
 - 💼 Freelanced on multiple real-world projects — from backend design to full deployment.  
