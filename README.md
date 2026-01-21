@@ -42,6 +42,12 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash-github-1&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-github-1&layout=compact&theme=tokyonight" alt="Top Languages" height="160px"/>
+</p>
 
 ### 📫 Connect With Me  
 
