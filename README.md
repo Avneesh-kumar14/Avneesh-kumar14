@@ -1,7 +1,7 @@
 <!-- Profile README for Avneesh Kumar -->
 
-<h1 align="center"> Hi, I'm Avneesh Kumar</h1>
-<h3 align="center">MERN Stack Developer | Final Year Web Development Student</h3>
+<h1 align="center"> Avneesh Kumar</h1>
+<h3 align="center">Full Stack Developer|</h3>
 
 ---
 
@@ -80,4 +80,4 @@
 
 ---
 
-<h3 align="center">✨ Code. Build. Scale. ✨</h3>
+<h3 align="center"> Build -> Fail-> Learn-> Restart=Success</h3>
