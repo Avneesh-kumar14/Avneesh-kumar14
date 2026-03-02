@@ -52,15 +52,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avneesh-kumar14&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avneesh-kumar14&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">
