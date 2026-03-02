@@ -79,5 +79,3 @@
 </p>
 
 ---
-
-<h3 align="center"> Build -> Fail-> Learn-> Restart=Success</h3>
