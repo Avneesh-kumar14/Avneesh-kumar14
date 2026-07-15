@@ -131,32 +131,87 @@ System Design Basics               █████████████░░
 
 ---
 
-## 🚀 Featured Project — *[Your Project Name]*
+## 🚀 Featured Projects
 
-> **Problem:** *[One line — what real problem does this project solve?]*
+### 🚗 Car Vault 360
 
-**Solution:** *[1–2 lines on your approach and what makes it technically interesting.]*
+> Full-stack MERN car rental platform — users browse the catalog, book cars by date, and track bookings; admins get a dedicated panel to manage the fleet.
 
-### Technical Architecture
-
-| Layer | Design Decision & Rationale |
+| Layer | Design Decision |
 |---|---|
-| **Auth & Authorization** | *[e.g. JWT-based auth, role-based route protection]* |
-| **Data Modeling** | *[e.g. MongoDB schema design, relations between collections]* |
-| **API Design** | *[e.g. RESTful endpoints, versioning, validation]* |
-| **Frontend Architecture** | *[e.g. React component structure, state management]* |
-| **Deployment** | *[e.g. Vercel for frontend, Render for backend]* |
+| **Auth** | JWT-based authentication with role-based access control (user vs admin) |
+| **Data Modeling** | MongoDB + Mongoose schemas for cars, bookings, and users |
+| **Frontend** | React + Redux for state, React Router for navigation, Ant Design for UI |
+| **Payments** | Stripe integration (test/fake mode for local dev) |
 
-### Core Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**[View Repo →](https://github.com/Avneesh-kumar14/Car-Vault-360)**
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avneesh-kumar14)
+<br/>
 
-<sub>💡 Swap the bracketed placeholders above with your real project name and details — this section reads far stronger with specifics than generic badges.</sub>
+### 💼 Get Hired Easy
+
+> A full-featured job search and recruitment platform connecting job seekers with employers — dual-sided app with separate seeker and recruiter flows.
+
+**For job seekers:** search & filter jobs, one-click applications, application tracking, OTP-based login with password recovery.
+**For recruiters:** post jobs, manage company profiles, view applicants, get email alerts on new applications.
+
+| Layer | Design Decision |
+|---|---|
+| **Auth** | JWT + Bcrypt + Passport.js, with OTP-based login and Google OAuth |
+| **Frontend** | React 18 + Vite, Redux for state, Tailwind CSS, an interactive 3D globe component |
+| **Backend** | Node.js + Express + MongoDB/Mongoose, versioned REST API (`/api/v1/...`) |
+| **Infra** | Dockerized (Docker Compose), deployed via Vercel, seed scripts for demo data |
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**[View Repo →](https://github.com/Avneesh-kumar14/Get-Hired-Easy)** · **[Live Demo →](https://get-hired-easy.vercel.app)**
+
+<br/>
+
+### 💬 Chatify
+
+> A full-stack real-time chat app with custom (non-third-party) JWT auth, live messaging, and presence indicators.
+
+- 🔐 Custom JWT auth — no third-party auth providers
+- ⚡ Real-time messaging via Socket.io, with online/offline presence
+- 📨 Welcome emails on signup (Resend) · 🗂️ Image uploads via Cloudinary
+- 🚦 API rate-limiting (Arcjet) · 🧠 Zustand for state management
+- 🎨 React + Tailwind CSS + DaisyUI, with a theme toggle
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**[View Repo →](https://github.com/Avneesh-kumar14/chatify-)**
+
+<br/>
+
+### 📝 Zarrin Blogs
+
+> A social blogging platform with Instagram/Facebook-style auth flows, real-time chat, and image uploads — containerized and deployed live.
+
+- 🔑 Instagram/Facebook-style authentication flow
+- 💬 In-app chat with UX-focused design iterations
+- 🖼️ Image upload pipeline · 📧 Transactional email service
+- 🐳 Dockerized, deployed with Render + Vercel
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+**[View Repo →](https://github.com/Avneesh-kumar14/Zarrin-Blogs)** · **[Live Demo →](https://zarrin-blogs.vercel.app)**
 
 ---
 
@@ -204,20 +259,24 @@ Next.js Ecosystem      ████████████████░░░
 <div align="center">
 
 ```
-[Your Timeline] ── Full Stack Developer
-  │     Building scalable web apps with the MERN stack
+Full Stack Developer
+  │     Building projects across the MERN stack
   │
-  ├── [Add an experience / internship here]
-  │     Role — what you shipped and learned
+  ├── Project · Car Vault 360
+  │     React · Redux · Node · MongoDB · Stripe — car rental platform, role-based admin panel
   │
-  ├── Project · [Your Featured Project]
-  │     Stack — key architectural decisions
+  ├── Project · Get Hired Easy
+  │     React · Vite · Node · MongoDB · Docker — dual-sided job portal for seekers & recruiters
+  │
+  ├── Project · Chatify
+  │     React · Socket.io · Node · MongoDB — real-time chat, custom JWT auth, live presence
+  │
+  ├── Project · Zarrin Blogs
+  │     JavaScript · Docker · Render — social blogging platform, IG/FB-style auth, in-app chat
   │
   └── Ongoing · Sharpening system design & DevOps skills
         Docker · Kafka · Redis · cloud deployments
 ```
-
-<sub>💡 Fill this in with your real milestones — internships, standout projects, certifications — in chronological order.</sub>
 
 </div>
 
